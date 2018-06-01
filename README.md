@@ -33,3 +33,8 @@ $ npm install --save bootstrap@3
 
 add below line in angular.json inside styles.
  "node_modules/bootstrap/dist/css/bootstrap.min.css",
+
+
+https://github.com/ng-bootstrap/ng-bootstrap
+npm install --save @ng-bootstrap/ng-bootstrap
+npm install rxjs-compat
